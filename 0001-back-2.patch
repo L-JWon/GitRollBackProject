@@ -1,0 +1,26 @@
+From 2052730517337cea3558e43c9a95d5495e1d59cf Mon Sep 17 00:00:00 2001
+From: L-JWon <suzy4ever830@gmail.com>
+Date: Mon, 4 Jul 2022 18:47:59 +0900
+Subject: [PATCH] back-2
+
+---
+ Shareproject/src/com/sist/backk/MainClass.java | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/Shareproject/src/com/sist/backk/MainClass.java b/Shareproject/src/com/sist/backk/MainClass.java
+index f64f669..37d0d51 100644
+--- a/Shareproject/src/com/sist/backk/MainClass.java
++++ b/Shareproject/src/com/sist/backk/MainClass.java
+@@ -5,7 +5,8 @@ public class MainClass {
+ 	public static void main(String[] args) {
+ 		// TODO Auto-generated method stub
+ 		System.out.println("Hello Git-1");
+-		System.out.println("Hello Git-2");
++		System.out.println("Hello Git-1");
++		
+ 	}
+ 
+ }
+-- 
+2.37.0.windows.1
+
